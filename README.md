@@ -1,5 +1,7 @@
-## Hi there 👋
+The rat that survived the Battle of Stalingrad
+Now trying to survive the education system
 
+"Every day we stray further from god"-the pigeon who died in waterloo engineering
 <!--
 **ratfromstalingrad/ratfromstalingrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
